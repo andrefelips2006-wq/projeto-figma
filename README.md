@@ -23,11 +23,10 @@ Tela de apresentação e informações.
 ### Tela 3
 Tela de projetos e contato.
 
-## Tecnologias e ferramentas
+## ferramentas
 
 - Figma
 - GitHub
-- Markdown
 
 ## Autor
 
